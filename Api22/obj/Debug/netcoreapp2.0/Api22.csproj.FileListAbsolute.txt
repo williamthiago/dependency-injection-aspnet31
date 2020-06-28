@@ -1,0 +1,16 @@
+/Users/williamthiago/dev/tacto/github/test-di/Api22/bin/Debug/netcoreapp2.0/appsettings.json
+/Users/williamthiago/dev/tacto/github/test-di/Api22/bin/Debug/netcoreapp2.0/Api22.deps.json
+/Users/williamthiago/dev/tacto/github/test-di/Api22/bin/Debug/netcoreapp2.0/Api22.runtimeconfig.json
+/Users/williamthiago/dev/tacto/github/test-di/Api22/bin/Debug/netcoreapp2.0/Api22.runtimeconfig.dev.json
+/Users/williamthiago/dev/tacto/github/test-di/Api22/bin/Debug/netcoreapp2.0/Api22.dll
+/Users/williamthiago/dev/tacto/github/test-di/Api22/bin/Debug/netcoreapp2.0/Api22.pdb
+/Users/williamthiago/dev/tacto/github/test-di/Api22/bin/Debug/netcoreapp2.0/Shared.dll
+/Users/williamthiago/dev/tacto/github/test-di/Api22/bin/Debug/netcoreapp2.0/Shared.pdb
+/Users/williamthiago/dev/tacto/github/test-di/Api22/obj/Debug/netcoreapp2.0/Api22.csprojAssemblyReference.cache
+/Users/williamthiago/dev/tacto/github/test-di/Api22/obj/Debug/netcoreapp2.0/Api22.AssemblyInfoInputs.cache
+/Users/williamthiago/dev/tacto/github/test-di/Api22/obj/Debug/netcoreapp2.0/Api22.AssemblyInfo.cs
+/Users/williamthiago/dev/tacto/github/test-di/Api22/obj/Debug/netcoreapp2.0/Api22.csproj.CoreCompileInputs.cache
+/Users/williamthiago/dev/tacto/github/test-di/Api22/obj/Debug/netcoreapp2.0/Api22.csproj.CopyComplete
+/Users/williamthiago/dev/tacto/github/test-di/Api22/obj/Debug/netcoreapp2.0/Api22.dll
+/Users/williamthiago/dev/tacto/github/test-di/Api22/obj/Debug/netcoreapp2.0/Api22.pdb
+/Users/williamthiago/dev/tacto/github/test-di/Api22/obj/Debug/netcoreapp2.0/Api22.genruntimeconfig.cache

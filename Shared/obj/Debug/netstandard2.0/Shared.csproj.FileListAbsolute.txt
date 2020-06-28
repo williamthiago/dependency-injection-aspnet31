@@ -1,0 +1,9 @@
+/Users/williamthiago/dev/tacto/github/test-di/Shared/bin/Debug/netstandard2.0/Shared.deps.json
+/Users/williamthiago/dev/tacto/github/test-di/Shared/bin/Debug/netstandard2.0/Shared.dll
+/Users/williamthiago/dev/tacto/github/test-di/Shared/bin/Debug/netstandard2.0/Shared.pdb
+/Users/williamthiago/dev/tacto/github/test-di/Shared/obj/Debug/netstandard2.0/Shared.csprojAssemblyReference.cache
+/Users/williamthiago/dev/tacto/github/test-di/Shared/obj/Debug/netstandard2.0/Shared.AssemblyInfoInputs.cache
+/Users/williamthiago/dev/tacto/github/test-di/Shared/obj/Debug/netstandard2.0/Shared.AssemblyInfo.cs
+/Users/williamthiago/dev/tacto/github/test-di/Shared/obj/Debug/netstandard2.0/Shared.csproj.CoreCompileInputs.cache
+/Users/williamthiago/dev/tacto/github/test-di/Shared/obj/Debug/netstandard2.0/Shared.dll
+/Users/williamthiago/dev/tacto/github/test-di/Shared/obj/Debug/netstandard2.0/Shared.pdb
